@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thais Lima - Portfólio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Thais Lima</h1>
+    <p>Estudante em busca de crescimento profissional</p>
+  </header>
+
+  <section class="sobre">
+    <h2>Sobre mim</h2>
+    <p>
+      Sou Thais Lima, estudante dedicada e determinada. Estou me preparando para ingressar no ensino superior e concluir cursos importantes para alcançar uma vida profissional realizada.
+    </p>
+  </section>
+
+  <section class="projetos">
+    <h2>Meus Projetos</h2>
+    <p>Você pode visualizar meus projetos no Canva:</p>
+    <a href="https://www.canva.com/p/thais-lima" target="_blank" class="btn">Ver Portfólio no Canva</a>
+  </section>
+
+  <section class="contato">
+    <h2>Contato</h2>
+    <p>Entre em contato comigo pelo e-mail:</p>
+    <a href="mailto:tlim15517@gmail.com" class="btn">tlim15517@gmail.com</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Thais Lima</p>
+  </footer>
+</body>
+</html>
